@@ -34,5 +34,4 @@ This repository contains an interactive **Power BI dashboard** designed to deliv
 
 Add a screenshot here!  
 You can include one like this:  
-```markdown
 ![Dashboard Preview](./dashboard-preview.png)
